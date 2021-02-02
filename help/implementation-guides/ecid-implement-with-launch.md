@@ -12,7 +12,7 @@ Adobe Experience Platform Launch is the primary tool used to set up, deploy, and
 
 ## About Launch {#section-611711602854464ea351a4af80a8dafe}
 
-[Adobe Experience Platform Launch](https://docs.adobelaunch.com/) is the next-generation of the Adobe tag-management capability that is built into the Adobe Experience Cloud. Launch enables clients to:
+[Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch.html) is the next-generation of the Adobe tag-management capability that is built into the Adobe Experience Cloud. Launch enables clients to:
 
 * Deploy client-side web products using integrations called extensions 
 * Consistently capture, define, manage, and share data between marketing and advertising products from other vendors and from Adobe 
